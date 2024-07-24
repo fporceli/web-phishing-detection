@@ -1,0 +1,2 @@
+# web-phishing-detection
+ This study proposes the development of a web application that is capable of using machine learning to detect Phising on fake websites based on their URL. The application will receive a database of reliable and fraudulent websites. It will analyze characteristics in common between them and a survey of algorithms that have the best accuracy in their results will be carried out to help the user conclude whether the site is trustworthy or not.
